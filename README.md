@@ -1,3 +1,8 @@
+[![built with Python3](https://img.shields.io/badge/built%20with-Python3-red.svg)](https://www.python.org/)
+[![built with Matplotlib](https://img.shields.io/badge/built%20with-matplotlib-blue.svg)](https://www.python.org/)
+[![built with Numpy](https://img.shields.io/badge/built%20with-numpy-green.svg)](https://www.python.org/)
+[![built with Pandas](https://img.shields.io/badge/built%20with-Pandas-lightgrey.svg)](https://www.python.org/)
+
 # PyCity Schools Analysis
 
 * As a whole, schools with higher budgets, did not yield better test results. By contrast, schools with higher spending per student actually (\\$645-675) underperformed compared to schools with smaller budgets (&lt;\\$585 per student).
